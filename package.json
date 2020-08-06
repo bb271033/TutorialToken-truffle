@@ -13,7 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.3.0",
+     "lodash": ">=4.17.19"
   },
   "dependencies": {
     "openzeppelin-solidity": "^2.4.0"
